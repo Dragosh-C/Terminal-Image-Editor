@@ -1,5 +1,5 @@
-    The program consists in creating an image editor using commands
-in the terminal (e.g. edit, draw, fill, set draw_color, set line_width, etc.)
+    The program consists in creating an image editor using commands 
+    in the terminal (e.g. edit, draw, fill, set draw_color, set line_width, etc.)
     For this, I first used a vector in which I read the commands. And then I
 called the function corresponding to each command.
     To load the image into memory, I used a function (editfile) of the type
